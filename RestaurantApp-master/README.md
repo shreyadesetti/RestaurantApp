@@ -8,7 +8,7 @@ Project Link to github
 https://github.com/shreyadesetti/RestaurantApp
 
 Project Youtube Video Link
-https://youtu.be/OmWAqAwrO6I
+https://youtu.be/TRAopvBO5DE
 
 
 # Restaurant App
