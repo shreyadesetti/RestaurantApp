@@ -1,16 +1,11 @@
-# Group -3 Information
+# Project Restaurant SQL Application using donet mvc
 
-GitHub_ID            Name                               Contributions   WSUID's
+GitHub_ID                    Name                               Contributions   WSUID's
 
-saiteja000          Saiteja Donthi                      100             H848P727
-
-manoharmaddula      Venkata sai Manohar Maddula         100             T869A369
-        
-vellapu09           shanmukh vellapu                    100             Z638Q779
-
+saitejadesetti          Sri Shreya Desetti                      100             A594F253
 
 Project Link to github
-https://github.com/saiteja000/RestaurantApp
+https://github.com/shreyadesetti/RestaurantApp
 
 Project Youtube Video Link
 https://youtu.be/OmWAqAwrO6I
