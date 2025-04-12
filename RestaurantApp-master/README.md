@@ -1,4 +1,4 @@
-# Project Restaurant SQL Application using donet mvc
+# Project Restaurant Application SQL Application using donet mvc
 
 GitHub_ID                    Name                               Contributions   WSUID's
 
