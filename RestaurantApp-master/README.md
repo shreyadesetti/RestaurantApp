@@ -1,8 +1,8 @@
 # Project Restaurant Application SQL Application using donet mvc
 
-GitHub_ID                    Name                               Contributions   WSUID's
+ Name                                    WSUID's
 
-saitejadesetti          Sri Shreya Desetti                      100             A594F253
+ Sri Shreya Desetti                      A594F253
 
 Project Link to github
 https://github.com/shreyadesetti/RestaurantApp
