@@ -5,7 +5,7 @@
  Sri Shreya Desetti                      A594F253
 
 Project Link to github
-https://github.com/shreyadesetti/RestaurantApp
+https://youtu.be/k_jOnWurkYo
 
 Project Youtube Video Link
 https://youtu.be/TRAopvBO5DE
